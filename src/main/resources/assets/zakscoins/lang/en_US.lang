@@ -1,0 +1,21 @@
+item.coins.0.name=Copper Coin
+item.coins.1.name=Silver Coin
+item.coins.2.name=Platinum Coin
+item.coins.3.name=Stack of Copper Coins
+item.coins.4.name=Stack of Silver Coins
+item.coins.5.name=Stack of Gold Coins
+item.coins.6.name=Stack of Platinum Coins
+item.coins.7.name=Bag of Copper Coins
+item.coins.8.name=Bag of Silver Coins
+item.coins.9.name=Bag of Gold Coins
+item.coins.10.name=Bag of Platinum Coins
+
+item.strikeHammer.name=Striking Hammer
+item.hammerHead.name=Strike Hammer Head
+
+item.casts.0.name=Single-Coin Cast
+item.casts.1.name=Nine-Coin Cast
+item.casts.2.name=81-Coin Cast
+item.casts.3.name=Single-Coin Cast
+item.casts.4.name=Nine-Coin Cast
+item.casts.5.name=81-Coin Cast

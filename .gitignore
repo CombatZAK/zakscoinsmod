@@ -61,3 +61,12 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+#Forge stuff
+build
+bin
+libs
+eclipse
+.metadata
+.gradle
+.settings

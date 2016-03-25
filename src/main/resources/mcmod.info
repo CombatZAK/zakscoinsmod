@@ -1,0 +1,16 @@
+[
+{
+  "modid": "zakscoinsmod",
+  "name": "Zak's Coins Mod",
+  "description": "Adds some coins to Minecraft",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["CombatZAK","rhyakk"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
